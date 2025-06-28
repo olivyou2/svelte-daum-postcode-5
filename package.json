@@ -21,10 +21,10 @@
     "@rollup/plugin-node-resolve": "^11.0.0",
     "rollup": "^2.3.4",
     "rollup-plugin-svelte": "^7.0.0",
-    "svelte": "^3.0.0"
+    "svelte": "^5.0.0"
   },
   "peerDependencies": {
-    "svelte": "^3.0.0"
+    "svelte": "^5.0.0"
   },
   "keywords": [
     "svelte",

@@ -12,13 +12,13 @@ svelte로 만든 Daum 우편번호 서비스 입니다.
 
 ## 설치
 ```
-  npm install -save svelte-daum-postcode
+  npm install -save svelte-daum-postcode-5
 ```
 
 ## 사용
 ```js
   <script>
-    import DaumPostcode from 'svelte-daum-postcode';
+    import DaumPostcode from 'svelte-daum-postcode-5';
 
     const handleComplete = ({ detail: { data }}) => {
       let fullAddress = data.address;
